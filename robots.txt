@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /pages/impressum.html
+Disallow: /pages/datenschutz.html
+
+Sitemap: https://webzech.de/sitemap.xml
